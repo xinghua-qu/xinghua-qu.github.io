@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Singapore"
-title                    : "Xinghua Qu"
+title                    : "Xinghua Qu's Homepage"
 title_separator          : "-"
 name                     : &name "Xinghua Qu"
 description              : &description "I am currently a research scientist at Bytedance AI Lab, Singapore"
