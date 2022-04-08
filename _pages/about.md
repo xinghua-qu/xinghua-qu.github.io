@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-About Me
-======
 - I currently serves as a research scientist at Bytedance AI Lab,Singapore. 
 - Before joining Bytedance, I obtained my PhD degree from the school of computer science and engineering in Nanyang Technological University
 (NTU), Singapore. In NTU, I am hornered to be supervised by Professor [Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/). 
