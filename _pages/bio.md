@@ -7,7 +7,7 @@ redirect_from:
   - /bio.html
 ---
 
-<!-- I currently serve as a research scientist at Bytedance AI Lab,Singapore. Before joining Bytedance, I obtained my PhD degree from the school of computer science and engineering in Nanyang Technological University
+I currently serve as a research scientist at Bytedance AI Lab,Singapore. Before joining Bytedance, I obtained my PhD degree from the school of computer science and engineering in Nanyang Technological University
 (NTU), Singapore. In NTU, I am honored to be supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/). 
 My recent research interests mainly focus on security and privacy related topics in different machine learning/deep learning domains, including
 deep reinforcement learning, computer vision and speech recognition. My research has been published on leading journals and conferences in related
@@ -24,5 +24,5 @@ Work Experience
 ======
 - Reserach Scientist (Full-time), Speech Brain Team, Bytedance AI Lab, Singapore (Jun 2021 - NOW)
 - Reserach Assiatant (Part-time), Data Science and AI Research Centre (DSAIR), Nanyang Technological University, Singapore (Nov 2020 - May 2021)
-- Reserach Assiatant (Full-time), Academy of Mathematics and Systems Science, Chinese Academy of Science, Beijing, China (Mar 2017 - Jun 2017) -->
+- Reserach Assiatant (Full-time), Academy of Mathematics and Systems Science, Chinese Academy of Science, Beijing, China (Mar 2017 - Jun 2017)
 
