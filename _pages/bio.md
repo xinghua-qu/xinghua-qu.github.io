@@ -1,7 +1,7 @@
 ---
 title: "Full Biography"
 excerpt: "Full Biography"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /bio/
   - /bio.html
