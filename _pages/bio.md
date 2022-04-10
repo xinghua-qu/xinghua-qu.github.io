@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /bio/
-title: "Biography"
+title: "Full Biography"
 author_profile: true
 ---
 
