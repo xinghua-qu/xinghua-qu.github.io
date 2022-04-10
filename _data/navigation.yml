@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Bio"
-    url: /bio/
+    url: /talks/
    
   - title: "Publications"
     url: /publications/
@@ -10,7 +10,7 @@ main:
     url: /awards/    
 
   - title: "Professional Activities"
-    url: /professional_activities/    
+    url: /year-archive/    
     
   - title: "Openings"
     url: /portfolio/
