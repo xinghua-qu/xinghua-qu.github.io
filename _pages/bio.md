@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /bio/
-  - /about.html
+  - /bio.html
 ---
 
 I currently serve as a research scientist at Bytedance AI Lab,Singapore. Before joining Bytedance, I obtained my PhD degree from the school of computer science and engineering in Nanyang Technological University
