@@ -1,13 +1,9 @@
 ---
-permalink: /
+layout: archive
+permalink: /awards/
 title: "Awards"
-excerpt: "Awards"
-author_profile: false
-redirect_from: 
-  - /awards/
-  - /awards.html
+author_profile: true
 ---
-
 
 - Research Highlight Award
 
