@@ -12,8 +12,8 @@ main:
   - title: "Professional Activities"
     url: /professional_activities/    
     
-  - title: "Openings"
-    url: /openings/
+#   - title: "Openings"
+#     url: /openings/
         
   - title: "Contact"
     url: /contact/
