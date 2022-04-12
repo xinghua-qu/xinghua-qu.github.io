@@ -6,4 +6,6 @@ author_profile: true
 ---
 
 - ASTAR Research Highlight Award. [AWARD NEWS PAGE:Expecting the Unexpected From AI](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/)
+- Best PhD Student Nomination (SIMTECH ASTAR)
+- Outstanding Master Student and Master Thesis (Beihang University)
 
