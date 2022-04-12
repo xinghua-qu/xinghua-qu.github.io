@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page is not updated frequently. You can also find my articles on [my google scholar](https://scholar.google.com.sg/citations?user=2PxlmU0AAAAJ&hl=en)
+Please kindly refer to my articles on [my google scholar](https://scholar.google.com.sg/citations?user=2PxlmU0AAAAJ&hl=en). This page is only updated occasionaly.
 
 
 {% include base_path %}
