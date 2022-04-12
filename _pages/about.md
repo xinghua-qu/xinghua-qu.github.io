@@ -23,6 +23,6 @@ Recent News
 - Program committee member of ICML-2022.
 - One paper entitled "Language Adaptive Cross-lingual Speech Representation Learning with Sparse Sharing Sub-networks" has been accepted by [ICASSP-2022].
 - One paper entitled "Spiking Pitch Black: Poisoning an Unknown Environment to Attack Unknown Reinforcement Learners" has been accepted by [AAMAS-2022].
-- I finished my oral defense in NTU.
+- I finished my PhD oral defense in NTU.
 - One paper entitled "Adversary Agnostic Robust Deep Reinforcement Learning" has been accepted by [IEEE Transactions on Neural Networks and Learning Systems].
 
