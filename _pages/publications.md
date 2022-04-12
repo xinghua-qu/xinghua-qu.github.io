@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{if author.googlescholar}
+{% if author.googlescholar %}
   This page is not updated frequently. You can also find my articles on <u><a href="{{https://scholar.google.com.sg/citations?user=2PxlmU0AAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-{end if}
+{% endif %}
 
 {% include base_path %}
 
