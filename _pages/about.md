@@ -17,4 +17,12 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ======
-- Our paper has been accepted by SIGIR-2022.
+- One paper entitled "Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling" has been accepted by [SIGIR-2022].
+- Invited as program committee member of NeurIPS-2022.
+- One paper accepted by IEEE Transactions on Cybertics.
+- Program committee member of ICML-2022.
+- One paper entitled "Language Adaptive Cross-lingual Speech Representation Learning with Sparse Sharing Sub-networks" has been accepted by [ICASSP-2022].
+- One paper entitled "Spiking Pitch Black: Poisoning an Unknown Environment to Attack Unknown Reinforcement Learners" has been accepted by [AAMAS-2022].
+- I finished my oral defense in NTU.
+- One paper entitled "Adversary Agnostic Robust Deep Reinforcement Learning" has been accepted by [IEEE Transactions on Neural Networks and Learning Systems].
+
