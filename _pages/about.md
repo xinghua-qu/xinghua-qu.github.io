@@ -19,7 +19,7 @@ Recent News
 ======
 - One paper entitled "Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling" has been accepted by [SIGIR-2022].
 - Invited as program committee member of NeurIPS-2022.
-- One paper accepted by IEEE Transactions on Cybertics.
+- One paper accepted by IEEE Transactions on Cybernetics.
 - Program committee member of ICML-2022, SIGKDD-2022.
 - One paper entitled "Language Adaptive Cross-lingual Speech Representation Learning with Sparse Sharing Sub-networks" has been accepted by [ICASSP-2022].
 - One paper entitled "Spiking Pitch Black: Poisoning an Unknown Environment to Attack Unknown Reinforcement Learners" has been accepted by [AAMAS-2022].
