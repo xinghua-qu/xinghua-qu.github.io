@@ -20,7 +20,7 @@ Recent News
 - One paper entitled "Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences" has been accepted by [IJCAI-2022] (15% of acceptance out of 4535 submissions)
 - One paper entitled "Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling" has been accepted by [SIGIR-2022].
 - Invited as program committee member of NeurIPS-2022.
-- One paper accepted by IEEE Transactions on Cybernetics.
+- One paper accepted by IEEE Transactions on Cybernetics (Impact Factor: 11.45).
 - Program committee member of ICML-2022, SIGKDD-2022.
 - One paper entitled "Language Adaptive Cross-lingual Speech Representation Learning with Sparse Sharing Sub-networks" has been accepted by [ICASSP-2022].
 - One paper entitled "Spiking Pitch Black: Poisoning an Unknown Environment to Attack Unknown Reinforcement Learners" has been accepted by [AAMAS-2022].
