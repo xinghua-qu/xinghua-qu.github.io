@@ -5,6 +5,7 @@ title: "Awards"
 author_profile: true
 ---
 
+- Nominated as [IEEE CIS Outstanding PhD Dissertation Award](https://cis.ieee.org/getting-involved/awards/13-cis-awards/293-ieee-cis-outstanding-ph-d-dissertation-award-nomination-instructions)
 - ASTAR Research Highlight Award. [AWARD NEWS PAGE:Expecting the Unexpected From AI](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/) - 2020
 - Best PhD Student Nomination (SIMTECH ASTAR) - 2021
 - Outstanding Master Student and Master Thesis (Beihang University) - 2017
