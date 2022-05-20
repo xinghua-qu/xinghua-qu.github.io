@@ -17,6 +17,8 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ======
+- One paper (First Author) entitled "Synthesising Audio Adversarial Examples for Automatic Speech Recognition" has been accepted as FULL PAPER by [SIGKDD-2022] (15% of acceptance out of 1695 submissions)
+- One paper (First Author) entitled "Importance Prioritized Policy Distillation" has been accepted as FULL PAPER by [SIGKDD-2022] (15% of acceptance out of 1695 submissions)
 - One paper entitled "Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences" has been accepted by [IJCAI-2022] (15% of acceptance out of 4535 submissions)
 - One paper entitled "Revisiting Bundle Recommendation: Datasets, Tasks, Challenges and Opportunities for Intent-aware Product Bundling" has been accepted by [SIGIR-2022].
 - Invited as program committee member of NeurIPS-2022.
