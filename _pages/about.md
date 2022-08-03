@@ -18,7 +18,7 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ======
-- One paper entitled "Dynamic Transfer Gaussian Process Regression has been accepted as a full paper by [CIKM-2022].
+- One paper entitled "Dynamic Transfer Gaussian Process Regression" has been accepted as a full paper by [CIKM-2022].
 - One paper entitled "Transfer Kernel Learning for Multi-source Transfer Gaussian Process Regression" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, Impact Factor: 24.31).
 - One paper (First Author) entitled "Synthesising Audio Adversarial Examples for Automatic Speech Recognition" has been accepted as full paper by [SIGKDD-2022] (15% of acceptance out of 1695 submissions)
 - One paper (First Author) entitled "Importance Prioritized Policy Distillation" has been accepted as full paper by [SIGKDD-2022] (15% of acceptance out of 1695 submissions)
