@@ -19,6 +19,7 @@ deep reinforcement learning, computer vision and speech recognition.
 Recent News
 ====== 
 - One paper entitled "DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF=24.31).
+- Invited as program committee member of KDD-2023.
 - One paper entitled "Dynamic Transfer Gaussian Process Regression" has been accepted as a full paper by [CIKM-2022].
 - My research papers are reported by several Chinese social media, such as [PaperWeekly]( https://mp.weixin.qq.com/s/qzesgFUIar3DXun0nkuq7Q), 语音之家，深科技，火山引擎.
 - One paper entitled "Transfer Kernel Learning for Multi-source Transfer Gaussian Process Regression" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF=24.31).
