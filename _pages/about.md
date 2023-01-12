@@ -10,10 +10,9 @@ redirect_from:
 
 - I currently serve as a research scientist at Tiktok/Bytedance AI Lab (Singapore), working on multimodal pretraining. 
 - Before joining Bytedance, I obtained my PhD degree from the School of Computer Science and Engineering in Nanyang Technological University
-(NTU), Singapore. In NTU, I am supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/). 
+(NTU), supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/). 
 - I also have experience and interest on security and privacy related topics in different machine learning/deep learning domains, including
 deep reinforcement learning, computer vision and speech recognition.
-- Currently hiring research scientist intern located at either Singapore or China Mainland (Beijing/Shanghai). Please send cv to xinghua.qu@bytedance.com
 
 
 Recent News
