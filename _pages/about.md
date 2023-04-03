@@ -17,6 +17,7 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ====== 
+- One paper accepted by SIGIR-2023 with title "Towards Building Voice-based Conversational RecommenderSystems: Datasets, Potential Solutions, and Prospects".
 - One paper entitled "DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF=24.31).
 - Invited as program committee member of KDD-2023.
 - One paper entitled "Dynamic Transfer Gaussian Process Regression" has been accepted as a full paper by [CIKM-2022].
