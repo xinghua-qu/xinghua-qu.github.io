@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I currently serve as a research scientist at Bytedance AI-Lab (Singapore), working on multimodal big model. 
+- I currently serve as a research scientist at Bytedance AI-Lab (Singapore), working on multimodal large language models (LLM). 
 - Before joining Bytedance, I obtained my PhD degree from the School of Computer Science and Engineering in Nanyang Technological University
 (NTU), supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/). 
 - I also have experience and interest on security and privacy related topics in different machine learning/deep learning domains, including
