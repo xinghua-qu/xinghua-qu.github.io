@@ -17,6 +17,7 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ====== 
+- One paper accepted by InterSpeech with the title "S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion"
 - One paper accepted by IJCAI-2023 with the title "AudioQR: Deep Neural Audio Watermarks For QR Code" (acceptance rate 20%).
 - One paper accepted by SIGIR-2023 with the title "Towards Building Voice-based Conversational RecommenderSystems: Datasets, Potential Solutions, and Prospects".
 - One paper entitled "DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF=24.31).
