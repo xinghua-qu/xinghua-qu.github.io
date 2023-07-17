@@ -17,7 +17,7 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ====== 
-- Our work about Audio QR Code has been highlighted by IJCAI-2023 officially, which can be referred on different media platforms. such as [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
+- Our work about [Audio QR Code](https://arxiv.org/pdf/2306.08219.pdf) has been highlighted by IJCAI-2023 officially, which can be referred on different media platforms. such as [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
 - One paper accepted by InterSpeech-2023 with the title "S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion"
 - One paper accepted by IJCAI-2023 with the title "AudioQR: Deep Neural Audio Watermarks For QR Code" (acceptance rate 20%).
 - One paper accepted by SIGIR-2023 with the title "Towards Building Voice-based Conversational RecommenderSystems: Datasets, Potential Solutions, and Prospects".
