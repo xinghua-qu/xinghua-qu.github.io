@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I currently serve as a research scientist at Bytedance AI-Lab (Singapore), working on multimodal large language models (LLM). 
+- I just joined Shanda Group Singapore as an AI scientist working on LLM agents, inspired by Mr. Tianqiao Chen's ambition on AI and LLM. Before that I served as a research scientist at Bytedance AI-Lab (Singapore) for more than 2 years, working on multimodal large language models (LLM) and AI secrurity. 
 - Before joining Bytedance, I obtained my PhD degree from the School of Computer Science and Engineering in Nanyang Technological University
 (NTU), supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/). 
 - I also have experience and interest on security and privacy related topics in different machine learning/deep learning domains, including
@@ -17,6 +17,7 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ====== 
+- Our work on ChatGPT driven Voice base Conversational Recommender Systems has been repored by several China media. [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
 - Our work about [Audio QR Code](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/) has been highlighted by IJCAI-2023 officially, which can be referred on different media platforms. such as [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
 - One paper accepted by InterSpeech-2023 with the title "S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion"
 - One paper accepted by IJCAI-2023 with the title "AudioQR: Deep Neural Audio Watermarks For QR Code" (acceptance rate 20%).
