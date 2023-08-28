@@ -18,6 +18,7 @@ deep reinforcement learning, computer vision and speech recognition.
 Recent News
 ====== 
 - I was invited by AI-TIME to give a talk on 31 Aug 2023.
+- Invited as reviewer for ICLR-2024.
 - I attended IJCAI-2023 physically in Macau to present our work on AudioQR Code.
 - Our work on ChatGPT driven Voice base Conversational Recommender Systems has been posted by several China media. [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
 - Our work about [Audio QR Code](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/) has been highlighted by IJCAI-2023 officially, which can be referred on different media platforms. such as [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
