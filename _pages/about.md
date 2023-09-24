@@ -17,7 +17,7 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ====== 
-- One paper entitled "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective" has been accepted by NeurIPS-2023.
+- One paper accepted by NeurIPS-2023 with the title "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective".
 - I was invited by AI-TIME to give a talk on 31 Aug 2023.
 - Invited as reviewer for ICLR-2024.
 - Our work on ChatGPT driven Voice base Conversational Recommender Systems has been posted by several China media. [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
