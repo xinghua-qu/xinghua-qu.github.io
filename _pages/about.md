@@ -11,6 +11,7 @@ redirect_from:
 - I just joined Shanda AI-Lab Singapore as an AI scientist working on LLM agents, inspired by Mr. Tianqiao Chen's ambition on AI and LLM. Before that I served as a research scientist at Bytedance AI-Lab (Singapore) for more than 2 years, working on multimodal LLM and AI secrurity. 
 - Before joining Bytedance, I obtained my PhD degree from the School of Computer Science and Engineering in Nanyang Technological University
 (NTU), supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/).
+
 **Research Interests: Trustworthy AI, Multimodal LLM, LLM Agents**
 
 
