@@ -20,7 +20,7 @@ Recent News
 - One paper accepted by NeurIPS-2023 with the title "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective".
 - I was invited by AI-TIME to give a talk on 31 Aug 2023.
 - Invited as reviewer for ICLR-2024.
-- Our work on ChatGPT driven Voice base Conversational Recommender Systems has been posted by several China media. [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
+- Our work on ChatGPT driven Voice base Conversational Recommender Systems has been posted by several Chinese media platforms, such as [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
 - Our work about [Audio QR Code](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/) has been highlighted by IJCAI-2023 officially, which can be referred on different media platforms. such as [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
 - One paper accepted by InterSpeech-2023 with the title "S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion"
 - One paper accepted by IJCAI-2023 with the title "AudioQR: Deep Neural Audio Watermarks For QR Code" (acceptance rate 20%).
@@ -28,7 +28,7 @@ Recent News
 - One paper entitled "DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF=24.31).
 - Invited as program committee member of KDD-2023, NeurIPS-2023, ICML-2023.
 - One paper entitled "Dynamic Transfer Gaussian Process Regression" has been accepted as a full paper by [CIKM-2022].
-- My research papers are reported by several Chinese social media, such as [PaperWeekly]( https://mp.weixin.qq.com/s/qzesgFUIar3DXun0nkuq7Q), 语音之家，深科技，火山引擎.
+- My research papers are reported by several Chinese media platforms, such as [PaperWeekly]( https://mp.weixin.qq.com/s/qzesgFUIar3DXun0nkuq7Q), 语音之家，深科技，火山引擎.
 - One paper entitled "Transfer Kernel Learning for Multi-source Transfer Gaussian Process Regression" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, IF=24.31).
 - One paper (First Author) entitled "Synthesising Audio Adversarial Examples for Automatic Speech Recognition" has been accepted as full paper by [SIGKDD-2022] (15% of acceptance out of 1695 submissions)
 - One paper (First Author) entitled "Importance Prioritized Policy Distillation" has been accepted as full paper by [SIGKDD-2022] (15% of acceptance out of 1695 submissions)
