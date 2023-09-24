@@ -17,6 +17,7 @@ deep reinforcement learning, computer vision and speech recognition.
 
 Recent News
 ====== 
+- One paper entitled "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective" has been accepted by NeurIPS-2023.
 - I was invited by AI-TIME to give a talk on 31 Aug 2023.
 - Invited as reviewer for ICLR-2024.
 - I attended IJCAI-2023 physically in Macau to present our work on AudioQR Code.
