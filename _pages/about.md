@@ -12,7 +12,7 @@ redirect_from:
 - Before joining Bytedance, I obtained my PhD degree from the School of Computer Science and Engineering in Nanyang Technological University
 (NTU), supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/).
 
-**Research Interests: Trustworthy AI, LLM Agents**
+**Research Interests: LLM Agents, Multimodal LLM, Trustworthy AI**
 
 
 Recent News
