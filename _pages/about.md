@@ -16,7 +16,7 @@ redirect_from:
 
 Recent News
 ====== 
-- My research work on audio watermarking was posted on [Linkedin]([https://www.linkedin.com/feed/update/urn:li:activity:7122926496863637504/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A7122926496863637504%2C7122998185811214337)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7122998185811214337%2Curn%3Ali%3Aactivity%3A7122926496863637504)&dashReplyUrn=urn%3Ali%3Afsd_comment%3A(7123101193400156160%2Curn%3Ali%3Aactivity%3A7122926496863637504)&replyUrn=urn%3Ali%3Acomment%3A(activity%3A7122926496863637504%2C7123101193400156160)](https://www.linkedin.com/posts/max-hilsdorf_can-we-encode-qr-codes-in-music-activity-7122926496863637504-6PgI?utm_source=share&utm_medium=member_desktop))
+- My research work on audio watermarking was posted on [Linkedin](https://www.linkedin.com/posts/max-hilsdorf_can-we-encode-qr-codes-in-music-activity-7122926496863637504-6PgI?utm_source=share&utm_medium=member_desktop)
 - One paper accepted by NeurIPS-2023 with the title "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective".
 - I was invited by AI-TIME to give a talk on 31 Aug 2023.
 - Invited as reviewer for ICLR-2024.
