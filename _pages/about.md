@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently an AI scientist at Shanda AI-Lab Singapore working on LLM agents, inspired by Mr. Tianqiao Chen's ambition on LLM. Before that I served as a research scientist at Bytedance AI-Lab (Singapore) for more than 2 years, working on multimodal LLM and trustworthy AI. 
+- I am currently an AI scientist at Shanda AI-Lab Singapore working on LLM agents. Before that I served as a research scientist at Bytedance AI-Lab (Singapore) for more than 2 years, working on multimodal LLM and trustworthy AI. 
 - Before joining Bytedance, I obtained my PhD degree from the School of Computer Science and Engineering in Nanyang Technological University.
 
 **Research Interests: LLM Agents, Multimodal LLM, Trustworthy AI**
