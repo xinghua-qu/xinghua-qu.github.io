@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a research scientist at the Seed team in Bytedance, working on alignment (RLHF) of multimodal foundation model.
+- I am currently a research scientist of Bytedance, working on alignment (RLHF) of multimodal foundation model.
 - I obtained my PhD degree from Nanyang Technological University in 2022.
 
 **Research Interests: LLM Agents, Multimodal LLM, Trustworthy AI**
