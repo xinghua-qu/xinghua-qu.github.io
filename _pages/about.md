@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I curerently lead a team in [Tianqiao and Chrissy Chen Institute](https://www.cheninstitute.org/), working on LLM agents for mental health. Before that I served as a research scientist at Bytedance AI-Lab (Singapore) for more than 2 years, working on multimodal LLM and trustworthy AI. 
-- Before joining Bytedance, I obtained my PhD degree from the School of Computer Science and Engineering in Nanyang Technological University.
+- I am currently a research scientist at the Seed team in Bytedance, working on alignment (RLHF) of multimodal foundation model.
+- I obtained my PhD degree from Nanyang Technological University in 2022.
 
 **Research Interests: LLM Agents, Multimodal LLM, Trustworthy AI**
 
