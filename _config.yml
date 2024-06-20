@@ -10,7 +10,7 @@ locale                   : "Singapore"
 title                    : "Xinghua Qu's Homepage"
 title_separator          : "-"
 name                     : &name "Xinghua Qu"
-description              : &description "I am currently a research scientist at Bytedance AI Lab, Singapore"
+description              : &description "I am currently a research scientist at Bytedance, Singapore"
 url                      : https://xinghua-qu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinghua-qu/xinghua-qu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinghua Qu"
   avatar           : "Xinghua_github.jpg"
-  bio              : "AI Scientist @ Shanda AI-Lab Singapore"
+  bio              : "Research Scientist @ Bytedance (Seed)"
   location         : "Singapore"
   employer         :
   pubmed           : 
