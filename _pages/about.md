@@ -16,6 +16,7 @@ redirect_from:
 
 Recent News
 ====== 
+- Our paper has been nominated as the best paper in SIGIR-2024
 - Two papers accepted by SIGIR-2024.
 - My research work on audio watermarking was posted on [Linkedin](https://www.linkedin.com/posts/max-hilsdorf_can-we-encode-qr-codes-in-music-activity-7122926496863637504-6PgI?utm_source=share&utm_medium=member_desktop)
 - One paper accepted by NeurIPS-2023 with the title "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective".
