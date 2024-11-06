@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a research scientist and tech lead at Bytedance (Seed), working on the better alignment of large language models (LLMs), expecially the alignment between different modalities using reinforcement learning. Besides RLHF on multimodal LLM, I also work on understanding the valnerability or safety of current LLM systems as well as the innovitive applications of LLM agents.
-- I obtained my PhD degree from Nanyang Technological University, where I worked on the topic "Adversarial Robustness of Deep Reinforcement Learning".
+- I am a research scientist and tech lead at ByteDance (Seed), specializing in enhancing the alignment of large language models (LLMs), with a particular focus on cross-modal alignment using reinforcement learning. My work encompasses Reinforcement Learning from Human Feedback (RLHF) for multimodal LLMs, as well as exploring the vulnerabilities and safety challenges within current LLM systems. Additionally, I am passionate about developing innovative applications for LLM-based agents.
+
+- I earned my PhD from Nanyang Technological University (NTU, Singapore), where my research centered on "Adversarial Robustness of Deep Reinforcement Learning."
 
 **Research Interests: Multimodal LLM, Reinforcement Learning, Trustworthy AI**
 
