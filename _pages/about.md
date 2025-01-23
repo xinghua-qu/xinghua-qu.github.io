@@ -17,7 +17,9 @@ redirect_from:
 
 Recent News
 ====== 
-- One paper accepted by AAAI-2025
+- One paper accepted by ICLR-2025.
+  -- Paper Title: You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs
+- One paper accepted by AAAI-2025.
 - One paper accepted by KDD-2025. Paper Title: Stabilizing Modality Gap & Lowering Gradient Norms Improves Zero-Shot Adversarial Robustness of VLMs.
 - Our paper has been nominated as the best paper in SIGIR-2024. Title: Adaptive In-Context Learning with Large Language Models for Bundle Generation.
 - [June 2024] I return Bytedance as a research scientist and tech lead, working on the RLHF alignment of multimodal LLM.
