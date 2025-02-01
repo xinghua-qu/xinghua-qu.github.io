@@ -18,6 +18,7 @@ redirect_from:
 Recent News
 ====== 
 - One paper accepted by ICLR-2025. (You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs)
+- As the teach lead and main contributor, our speech to speech LLM trained using Reinforcement Learning has been released on [Doubao (豆包)](https://www.doubao.com/chat/) before Chinese New Year.
 - One paper accepted by AAAI-2025.
 - One paper accepted by KDD-2025. Paper Title: Stabilizing Modality Gap & Lowering Gradient Norms Improves Zero-Shot Adversarial Robustness of VLMs.
 - Our paper has been nominated as the best paper in SIGIR-2024. Title: Adaptive In-Context Learning with Large Language Models for Bundle Generation.
