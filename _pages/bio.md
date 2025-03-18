@@ -5,11 +5,9 @@ title: "Full Biography"
 author_profile: true
 ---
 
-I currently serve as a research scientist at Bytedance AI Lab,Singapore. Before joining Bytedance, I obtained my PhD degree from the school of computer science and engineering in Nanyang Technological University
-(NTU), Singapore. In NTU, I am supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html) and Dr. [Abhishek Gupta](https://sites.google.com/site/abhishekguptamemecomput/). 
-My recent research interests mainly focus on security and privacy related topics in different machine learning/deep learning domains, including
-deep reinforcement learning, computer vision and speech recognition. My research has been published on leading journals and conferences in related
-domains, such as TNNLS, TCYB, TCDS, AAMAS, RecSys etc. In 2020, I received [Research Highlight awards](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/) from the Agency for Science, Technology and Research (ASTAR), Singapore.
+I currently serve as a research scientist at Bytedance Seed,Singapore. Before joining Bytedance, I obtained my PhD degree from the school of computer science and engineering in Nanyang Technological University
+(NTU), Singapore. In NTU, I am supervised by Prof. [Yew-Soon Ong (FIEEE)](https://personal.ntu.edu.sg/asysong/home.html). Currently, my research interest is mainly on enhancing the alignment of large language models (LLMs), with a particular focus on cross-modal alignment using reinforcement learning. My work encompasses Reinforcement Learning from Human Feedback (RLHF) for multimodal LLMs, as well as exploring the vulnerabilities and safety challenges within current LLM systems. Additionally, I am passionate about developing innovative applications for LLM-based agents. During 2023, I joined Shanda Group shortly to work on LLM startup, inspired by [Mr Chen Tianqiao](https://en.wikipedia.org/wiki/Chen_Tianqiao)'s ambition.
+
 
 Education History
 ======
