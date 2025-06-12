@@ -39,4 +39,5 @@ I am a research scientist and _tech lead_ at ByteDance Seed, specializing in tra
 - 🎉 One paper accepted by AAMAS-2022.
 - 💼 [June 2021] I joined Bytedance AI lab (Singapore) as a research scientist
 - 🎓📜 [May 2021] PhD thesis submission in [NTU](https://www.ntu.edu.sg/)
-- My research on "adversarial robustness of deep reinforcement learning" has been featured with title ["Expecting the Unexpected from AI"](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/).
+- 🔥 My research on "adversarial robustness of deep reinforcement learning" has been featured with title ["Expecting the Unexpected from AI"](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/).
+- 🏆 Received Research Highlight Award from [ASTAR Singapore](https://www.a-star.edu.sg/).
