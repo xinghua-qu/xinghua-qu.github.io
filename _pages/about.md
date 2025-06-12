@@ -21,9 +21,9 @@ I am a research scientist and _tech lead_ at ByteDance (Seed), specializing in t
 - 🎉 One paper accepted by NeurIPS-2023.
 - 🔥✨ [Aug 2023] I was invited by AI-TIME to give a talk.
 - 🔥 Our work on ChatGPT driven Voice base Conversational Recommender Systems has been posted by several Chinese media platforms, such as [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
+- 💼 [Aug 2023] I joined Shanda Group as an AI scientist inspired by Mr Chen Tianqiao's ambition, working on internal start-up and venture capital investment consultation on AI.
 - 🔥 Our work about [Audio QR Code](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/) has been highlighted by IJCAI-2023 officially [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
 - 🎉 One paper accepted by InterSpeech-2023.
-- 💼 I joined Shanda Group as an AI scientist inspired by Mr Chen Tianqiao's ambition, working on internal start-up and venture capital investment consultation on AI.
 - 🎉 One paper accepted by IJCAI-2023.
 - 🎉 One paper accepted by SIGIR-2023.
 - 🎉 One paper accepted by IEEE TPAMI.
