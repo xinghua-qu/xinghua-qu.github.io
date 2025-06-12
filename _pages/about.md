@@ -9,7 +9,7 @@ redirect_from:
 I am a research scientist and _tech lead_ at ByteDance (Seed), specializing in training multimodal large language models (LLMs) and LLM agents using **reinforcement learning (RL)**. I earned my PhD from Nanyang Technological University (NTU, Singapore), where my research centered on "Adversarial Robustness of Deep Reinforcement Learning". 
 
 **Recent news**
-- 🏆 Spot bonus award (2/366).
+- 🏆 Spot bonus award (2/366) from Bytedance Seed.
 - 🎉 One paper accepted by ICML-2025 as _spotlight_ (acceptance rate=2.6%).
 - 🎉 One paper accepted by ICLR-2025.
 - 🚀 [Feb 2025] As the tech lead and main contributor, our speech to speech LLM trained using Reinforcement Learning has been released on [Doubao](https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8Bai%E5%8A%A9%E6%89%8B/id6459478672) [豆包](https://www.doubao.com/chat/) before Chinese New Year. 
