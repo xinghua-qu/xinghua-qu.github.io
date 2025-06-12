@@ -34,7 +34,9 @@ I am a research scientist and _tech lead_ at ByteDance Seed, specializing in tra
 - 🎉 One paper accepted by IEEE TPAMI.
 - 🎉 Two paper accepted by SIGKDD-2022.
 - 🎉 One paper accepted by IJCAI-2022.
+- 🎓 I finished my oral defense and received my PhD degree. Many thanks to my supervisor [Prof Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html) and many other collaborators.
 - 🎉 One paper accepted by SIGIR-2022.
 - 🎉 One paper accepted by AAMAS-2022.
 - 💼 [June 2021] I joined Bytedance AI lab (Singapore) as a research scientist
 - 🎓📜 [May 2021] PhD thesis submission in [NTU](https://www.ntu.edu.sg/)
+- My research on "adversarial robustness of deep reinforcement learning" has been featured with title ["Expecting the Unexpected from AI"](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/).
