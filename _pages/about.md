@@ -14,8 +14,6 @@ I earned my PhD from Nanyang Technological University (NTU, Singapore), where my
 
 **Research Interests: Multimodal LLM, Reinforcement Learning, Trustworthy AI**
 
-
-Recent News
 ====
 - 🎉 One paper accepted by ICML-2025 as _spotlight_ (acceptance rate=2.6%).
 - 🎉 One paper accepted by ICLR-2025.
