@@ -18,6 +18,7 @@ I am a research scientist and _tech lead_ at ByteDance (Seed), specializing in t
 - 🔥 Our paper was nominated as the best paper in SIGIR-2024.
 - 💼 [Jun 2024] I returned to Bytedance Seed as a research scientist and tech lead to build up the reinforcement learning pipeline for speech to speech LLMs.
 - 🎉 Two papers accepted by SIGIR-2024.
+- 🏆 Received outstanding employee award from Shanda gruop (rate=4/360).
 - 🔥 My research work on audio watermarking was recently featured on [Linkedin](https://www.linkedin.com/posts/max-hilsdorf_can-we-encode-qr-codes-in-music-activity-7122926496863637504-6PgI?utm_source=share&utm_medium=member_desktop)
 - 🎉 One paper accepted by NeurIPS-2023.
 - 🔥✨ [Aug 2023] I was invited by AI-TIME to give a talk.
