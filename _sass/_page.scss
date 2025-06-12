@@ -2,6 +2,12 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+/* 导入新字体 */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&family=Quicksand:wght@400;500;600;700&display=swap');
+
+$global-font-family: 'Nunito Sans', sans-serif;
+$heading-font-family: 'Quicksand', sans-serif;
+
 #main {
   @include container;
   @include clearfix;
@@ -37,6 +43,8 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-family: $heading-font-family;
+  font-weight: 600;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -44,8 +52,9 @@
 }
 
 .page__lead {
-  font-family: $global-font-family;
+  font-family: $heading-font-family;
   font-size: $type-size-4;
+  font-weight: 500;
 }
 
 .page__content {
@@ -53,10 +62,14 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    font-family: $heading-font-family;
+    font-weight: 600;
   }
 
   p, li, dl {
+    font-family: $global-font-family;
     font-size: 1em;
+    font-weight: 400;
   }
 
   /* paragraph indents */
@@ -86,17 +99,18 @@
 
   dt {
     margin-top: 1em;
-    font-family: $sans-serif;
-    font-weight: bold;
+    font-family: $heading-font-family;
+    font-weight: 600;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     font-size: $type-size-6;
   }
 
   .small {
+    font-family: $global-font-family;
     font-size: $type-size-6;
   }
 
@@ -144,6 +158,7 @@
     .btn {
       color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      font-family: $heading-font-family;
     }
 
     .page__lead {
@@ -218,6 +233,7 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  font-family: $heading-font-family;
 }
 
 
@@ -228,7 +244,7 @@
 .page__meta {
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
-  font-family: $sans-serif;
+  font-family: $global-font-family;
   font-size: $type-size-6;
 
   p {
@@ -244,6 +260,7 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  font-family: $heading-font-family;
 }
 
 
@@ -292,6 +309,7 @@
   font-size: $type-size-6;
   border-top: 1px solid $border-color;
   text-transform: uppercase;
+  font-family: $heading-font-family;
 }
 
 .page__comments-form {
@@ -357,6 +375,7 @@
 
 .comment__author {
   margin: 0;
+  font-family: $heading-font-family;
 
   a {
     text-decoration: none;
@@ -398,4 +417,5 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  font-family: $heading-font-family;
 }
