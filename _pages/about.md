@@ -39,7 +39,7 @@ I am a research scientist and _tech lead_ at ByteDance Seed, specializing in tra
 
 **Experience**
 - 💼 [Jun 2024] I returned to Bytedance Seed as a research scientist and tech lead to build up the reinforcement learning pipeline for speech to speech LLMs.
-- 💼 [Aug 2023] I joined Shanda Group as an AI scientist inspired by Mr Chen Tianqiao's ambition on AI, working on internal start-up and venture capital investment consultation on AI.
+- 💼 [Aug 2023] I joined Shanda Group as an AI scientist inspired by [Mr Chen Tianqiao](https://en.wikipedia.org/wiki/Chen_Tianqiao)'s ambition on AI, working on internal start-up and venture capital investment consultation on AI.
 - 🎓 [Jan 2022]I finished my oral defense and received my PhD degree. Many thanks to my supervisor [Prof Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html) and many other collaborators.
 - 💼 [June 2021] I joined Bytedance AI lab (Singapore) as a research scientist
 - 🎓📜 [May 2021] PhD thesis submission in [NTU](https://www.ntu.edu.sg/)
