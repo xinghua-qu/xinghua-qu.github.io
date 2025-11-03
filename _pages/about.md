@@ -10,7 +10,7 @@ I am a research scientist and _tech lead_ at ByteDance Seed, specializing in tra
 
 **Recent news**
 - 🏆 Received _Outstanding Team_ award from Bytedance Seed.
-- 🎉 Our Bytedance Seed tech report about [VoiceAgent](https://arxiv.org/pdf/2509.14480) has been released.
+- 🎉 Our Bytedance Seed tech report about [Multimoal LLM Agent](https://arxiv.org/pdf/2509.14480) has been released.
 - 🎉 Two papers accepted by NeurIPS-2025. "Robust SuperAlignment" selected as spotlight.
 - 🎉 Serve as a judge for [GenAI Augmentation Challenge 2025](https://genai.ilabccds.com/) invited by NTU and ASTAR.
 - 🎉 Google scholar citation achieved 1000.
