@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist and _tech lead_ at ByteDance Seed, specializing in training multimodal large language models (LLMs) and LLM agents using **reinforcement learning (RL)**. I got my PhD degree from Nanyang Technological University (NTU, Singapore) in 2022, where my research centered on "Adversarial Robustness of Deep Reinforcement Learning". 
+I am a research scientist and tech lead at ByteDance Seed, specializing in multimodal large language models and reinforcement learning. I got my PhD degree from Nanyang Technological University (NTU, Singapore) in 2022, where my research centered on "Adversarial Robustness of Deep Reinforcement Learning". 
 
 **Recent news**
-- 🏆 Received _Outstanding Team_ award from Bytedance Seed.
+- 🏆 Received _Outstanding Team_ award (Spot Bonus in Q3) from Bytedance Seed.
 - 🎉 Our Bytedance Seed tech report about [Multimoal LLM Agent](https://arxiv.org/pdf/2509.14480) has been released.
 - 🎉 Two papers accepted by NeurIPS-2025. "Robust SuperAlignment" selected as spotlight.
 - 🎉 Google scholar citation achieved 1000.
