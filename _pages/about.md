@@ -11,7 +11,7 @@ I am a research scientist and tech lead at ByteDance Seed, specializing in multi
 **Recent news**
 - 🎉 Two papers accepted by ICLR 2026. [ParaS2S](https://openreview.net/forum?id=CcmDDh070o&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), [VLM Model Merge](https://openreview.net/forum?id=KOO1cDm2bt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
 - 🏆 Received _Outstanding Team_ award (Spot Bonus in Q3) from Bytedance Seed.
-- 🎉 Our Bytedance Seed tech report about [Multimoal LLM Agent](https://arxiv.org/pdf/2509.14480) has been released.
+- 🎉 Our Bytedance Seed tech report about [Multimodal LLM Agent](https://arxiv.org/pdf/2509.14480) has been released.
 - 🎉 Two papers accepted by NeurIPS-2025. "Robust SuperAlignment" selected as spotlight.
 - 🎉 Google scholar citation achieved 1000.
 - 🎉 Two papers accepted by ICCV-2025; One ICCV paper was selected as highlight.
