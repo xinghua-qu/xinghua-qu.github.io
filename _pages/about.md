@@ -10,6 +10,9 @@ I am a **Principal Research Scientist** specializing in Multimodal Large Languag
 
 I have published 50+ papers [![Citations](https://img.shields.io/badge/Google%20Scholar-1000%2B-blue)](https://scholar.google.com/citations?user=2PxlmU0AAAAJ) at top-tier AI conferences such as NeurIPS, ICML, and ICLR.
 
+> "Your time is limited, so don't waste it living someone else's life."
+> — Steve Jobs
+
 **Recent news**
 - 🎉 Two papers accepted by ICLR 2026. [ParaS2S](https://openreview.net/forum?id=CcmDDh070o&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), [VLM Model Merge](https://openreview.net/forum?id=KOO1cDm2bt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
 - 🏆 Received _Outstanding Team_ award (Spot Bonus in Q3) from Bytedance Seed.
