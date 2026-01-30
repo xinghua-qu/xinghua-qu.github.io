@@ -6,14 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-> "Your time is limited, so don't waste it living someone else's life."
-> — Steve Jobs
-
 I am a **Principal Research Scientist** specializing in Multimodal Large Language Models (LLMs). Previously, I was a Research Scientist and Tech Lead at **ByteDance Seed**, where I focused on multimodal LLMs and Reinforcement Learning. I received my PhD from Nanyang Technological University (NTU, Singapore) in 2022, with a thesis on "Adversarial Robustness of Deep Reinforcement Learning" supervised by [Prof Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html) and [Dr. Abhishek Gupta](https://sites.google.com/view/abhishekguptaiitgoa/home).
 
 I have published 50+ papers [![Citations](https://img.shields.io/badge/Google%20Scholar-1000%2B-blue)](https://scholar.google.com/citations?user=2PxlmU0AAAAJ) at top-tier AI conferences such as NeurIPS, ICML, and ICLR.
 
+> "Your time is limited, so don't waste it living someone else's life."
+> — Steve Jobs
 
 **Recent news**
 - 🎉 Two papers accepted by ICLR 2026. [ParaS2S](https://openreview.net/forum?id=CcmDDh070o&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), [VLM Model Merge](https://openreview.net/forum?id=KOO1cDm2bt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
