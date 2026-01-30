@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a principle research scientist specializing in multimodal LLMs. I was a research scientist and tech lead at ByteDance Seed, specializing in multimodal large language models and reinforcement learning. I got my PhD degree from Nanyang Technological University (NTU, Singapore) in 2022, where my research centered on "Adversarial Robustness of Deep Reinforcement Learning". I have published 50+ papers [![Citations](https://img.shields.io/badge/Google%20Scholar-1000%2B-blue)](https://scholar.google.com/citations?user=2PxlmU0AAAAJ) at the top-tier AI conferences such as NeurIPS, ICML, ICLR, KDD.
+I am a principle research scientist specializing in multimodal LLMs. I was a research scientist and tech lead at ByteDance Seed, specializing in multimodal large language models and reinforcement learning. I got my PhD degree from Nanyang Technological University (NTU, Singapore) in 2022, where my research centered on "Adversarial Robustness of Deep Reinforcement Learning". I have published 50+ papers [![Citations](https://img.shields.io/badge/Google%20Scholar-1000%2B-blue)](https://scholar.google.com/citations?user=2PxlmU0AAAAJ) at the top-tier AI conferences such as NeurIPS, ICML, ICLR.
 
 **Recent news**
 - 🎉 Two papers accepted by ICLR 2026. [ParaS2S](https://openreview.net/forum?id=CcmDDh070o&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), [VLM Model Merge](https://openreview.net/forum?id=KOO1cDm2bt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
