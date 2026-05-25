@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a **Principal Research Scientist** specializing in Multimodal Large Language Models (LLMs). Previously, I was a Research Scientist and Tech Lead at **ByteDance Seed**, where I focused on multimodal LLMs and Reinforcement Learning. I received my PhD from Nanyang Technological University (NTU, Singapore) in 2022, with a thesis on "Adversarial Robustness of Deep Reinforcement Learning" supervised by [Prof Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html).
 
-I have published 50+ papers [![Citations](https://img.shields.io/badge/Google%20Scholar-1297-blue)](https://scholar.google.com/citations?user=2PxlmU0AAAAJ) at top-tier AI conferences such as NeurIPS, ICML, and ICLR.
+I have published 50+ papers [1500+](https://scholar.google.com/citations?user=2PxlmU0AAAAJ&hl=en) at top-tier AI conferences such as NeurIPS, ICML, and ICLR.
 
 > "Your time is limited, so don't waste it living someone else's life."
 > — Steve Jobs
