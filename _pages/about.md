@@ -16,24 +16,18 @@ I am a **Principal Research Scientist** specializing in Multimodal Large Languag
 - 🏆 Received _Outstanding Team_ award (Spot Bonus in Q3) from Bytedance Seed.
 - 🎉 Our Bytedance Seed tech report about [Multimodal LLM Agent](https://arxiv.org/pdf/2509.14480) has been released.
 - 🎉 Two papers accepted by NeurIPS-2025. "Robust SuperAlignment" selected as spotlight.
-- 🎉 Google scholar citation achieved 1000.
 - 🎉 Two papers accepted by ICCV-2025; One ICCV paper was selected as highlight.
 - 🏆 Received _Spot Bonus_ award for Breakthrough In New Area from Bytedance Seed (rate=2/366).
 - 🎉 One paper accepted by ICML-2025 as _spotlight_ (acceptance rate=2.6%).
-- 🎉 One paper accepted by ICLR-2025.
 - 🚀 [Feb 2025] As the tech lead and main contributor, our speech to speech LLM trained using Reinforcement Learning has been released on [Doubao](https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8Bai%E5%8A%A9%E6%89%8B/id6459478672) [豆包](https://www.doubao.com/chat/). 
-- 🎉 One paper accepted by AAAI-2025.
-- 🎉 One paper accepted by KDD-2025. 
+- 🎉 Papers accepted by ICLR-2025, AAAI-2025, KDD-2025.
 - 🔥 Our paper was nominated as the best paper in SIGIR-2024.
-- 🎉 Two papers accepted by SIGIR-2024.
 - 🏆 Received outstanding employee award from Shanda gruop (rate=4/360).
 - 🔥 My research work on audio watermarking was recently featured on [Linkedin](https://www.linkedin.com/posts/max-hilsdorf_can-we-encode-qr-codes-in-music-activity-7122926496863637504-6PgI?utm_source=share&utm_medium=member_desktop)
 - 🎉 One paper accepted by NeurIPS-2023.
-- 🔥✨ [Aug 2023] I was invited by AI-TIME to give a talk.
-- 🔥 Our work on ChatGPT driven Voice base Conversational Recommender Systems has been posted by several Chinese media platforms, such as [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
+- 🔥✨ Invited talk for AI-TIME.
 - 🔥 Our work about [Audio QR Code](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/) has been highlighted by IJCAI-2023 officially [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
 - 🔥 My research papers are reported by several Chinese media platforms, such as [PaperWeekly]( https://mp.weixin.qq.com/s/qzesgFUIar3DXun0nkuq7Q), 语音之家，深科技，火山引擎.
-- 🎉 One paper accepted by IEEE TPAMI.
 - 🔥 My research on "adversarial robustness of deep reinforcement learning" has been featured with title ["Expecting the Unexpected from AI"](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/).
 - 🏆 Received Research Highlight Award from [ASTAR Singapore](https://www.a-star.edu.sg/).
 
