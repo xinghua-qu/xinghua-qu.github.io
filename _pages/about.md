@@ -33,21 +33,13 @@ I am a **Principal Research Scientist** specializing in Multimodal Large Languag
 - 🔥✨ [Aug 2023] I was invited by AI-TIME to give a talk.
 - 🔥 Our work on ChatGPT driven Voice base Conversational Recommender Systems has been posted by several Chinese media platforms, such as [语音之家](https://mp.weixin.qq.com/s/KgoqJKfmJOdbDyKBgUNZ8Q), [火山语音](https://mp.weixin.qq.com/s/r4tJPaEEmdAMzQmKfMbUuA)
 - 🔥 Our work about [Audio QR Code](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/) has been highlighted by IJCAI-2023 officially [🔬Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:7085199256826830849/), [Facebook](https://fb.watch/lQny_1I5nR/), [Twitter](https://twitter.com/IJCAIconf/status/1679438821841072128).
-- 🎉 One paper accepted by InterSpeech-2023.
-- 🎉 One paper accepted by IJCAI-2023.
-- 🎉 One paper accepted by SIGIR-2023.
-- 🎉 One paper accepted by IEEE TPAMI.
-- 🎉 One paper accepted by CIKM-2022.
 - 🔥 My research papers are reported by several Chinese media platforms, such as [PaperWeekly]( https://mp.weixin.qq.com/s/qzesgFUIar3DXun0nkuq7Q), 语音之家，深科技，火山引擎.
 - 🎉 One paper accepted by IEEE TPAMI.
-- 🎉 Two paper accepted by SIGKDD-2022.
-- 🎉 One paper accepted by IJCAI-2022.
-- 🎉 One paper accepted by SIGIR-2022.
-- 🎉 One paper accepted by AAMAS-2022.
 - 🔥 My research on "adversarial robustness of deep reinforcement learning" has been featured with title ["Expecting the Unexpected from AI"](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/).
 - 🏆 Received Research Highlight Award from [ASTAR Singapore](https://www.a-star.edu.sg/).
 
 **Experience**
+- 💼 [Feb 2026] I left Bytedance Seed to pursue agentic interaction models. Many thanks my wonderful teammates for the models we trained together.
 - 💼 [Jun 2024] I returned to Bytedance Seed as a research scientist and tech lead to build up the reinforcement learning pipeline for speech to speech LLMs.
 - 💼 [Aug 2023] I joined Shanda Group as an AI scientist inspired by [Mr Chen Tianqiao](https://en.wikipedia.org/wiki/Chen_Tianqiao)'s ambition on AI, working on internal start-up and venture capital investment consultation on AI.
 - 🎓 [Jan 2022]I finished my oral defense and received my PhD degree. Many thanks to my supervisor [Prof Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html) and many other collaborators.
