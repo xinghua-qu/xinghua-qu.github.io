@@ -9,6 +9,8 @@ redirect_from:
 I am a **Principal Research Scientist** specializing in Multimodal Large Language Models (LLMs). Previously, I was a Research Scientist and Tech Lead at **ByteDance Seed**, where I focused on multimodal LLMs and Reinforcement Learning. I received my PhD from Nanyang Technological University (NTU, Singapore) in 2022, where I worked on Deep Reinforcement Learning.
 
 > "Your time is limited, so don't waste it living someone else's life."  — Steve Jobs
+
+
 > "The best way to predict the future is to invent it" — Alan Kay
 
 **Recent news**
