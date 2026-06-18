@@ -15,6 +15,7 @@ I am a **Principal Research Scientist** specializing in Agentic Interaction Mode
 
 **Recent news**
 <div markdown="1" style="max-height: 260px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px 16px; margin-bottom: 1em; background: #fafbfc;">
+  
 - 🎉 Two papers accepted by ICLR 2026. [ParaS2S](https://openreview.net/forum?id=CcmDDh070o&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), [VLM Model Merge](https://openreview.net/forum?id=KOO1cDm2bt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
 - 🏆 Received _Outstanding Team_ award (Spot Bonus in Q3) from Bytedance Seed.
 - 🎉 Our Bytedance Seed tech report about [Multimodal LLM Agent](https://arxiv.org/pdf/2509.14480) has been released.
