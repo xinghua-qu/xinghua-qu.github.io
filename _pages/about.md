@@ -14,6 +14,7 @@ I am a **Principal Research Scientist** specializing in Agentic Interaction Mode
 > "The best way to predict the future is to invent it" — Alan Kay
 
 **Recent news**
+<div markdown="1" style="max-height: 260px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px 16px; margin-bottom: 1em; background: #fafbfc;">
 - 🎉 Two papers accepted by ICLR 2026. [ParaS2S](https://openreview.net/forum?id=CcmDDh070o&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), [VLM Model Merge](https://openreview.net/forum?id=KOO1cDm2bt&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
 - 🏆 Received _Outstanding Team_ award (Spot Bonus in Q3) from Bytedance Seed.
 - 🎉 Our Bytedance Seed tech report about [Multimodal LLM Agent](https://arxiv.org/pdf/2509.14480) has been released.
@@ -32,6 +33,7 @@ I am a **Principal Research Scientist** specializing in Agentic Interaction Mode
 - 🔥 My research papers are reported by several Chinese media platforms, such as [PaperWeekly]( https://mp.weixin.qq.com/s/qzesgFUIar3DXun0nkuq7Q), 语音之家，深科技，火山引擎.
 - 🔥 My research on "adversarial robustness of deep reinforcement learning" has been featured with title ["Expecting the Unexpected from AI"](https://research.a-star.edu.sg/articles/highlights/expecting-the-unexpected-from-ai/).
 - 🏆 Received Research Highlight Award from [ASTAR Singapore](https://www.a-star.edu.sg/).
+</div>
 
 **Experience**
 - 💼 [Feb 2026] I left Bytedance Seed to pursue agentic interaction models. Many thanks my wonderful teammates for the models we trained together.
