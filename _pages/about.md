@@ -23,7 +23,7 @@ I am a **Principal Research Scientist** specializing in Agentic Interaction Mode
 - 🎉 Two papers accepted by ICCV-2025; One ICCV paper was selected as highlight.
 - 🏆 Received _Spot Bonus_ award for Breakthrough In New Area from Bytedance Seed (rate=2/366).
 - 🎉 One paper accepted by ICML-2025 as _spotlight_ (acceptance rate=2.6%).
-- 🚀 [Feb 2025] As the tech lead and main contributor, our speech to speech LLM trained using Reinforcement Learning has been released on [Doubao](https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8Bai%E5%8A%A9%E6%89%8B/id6459478672) [豆包](https://www.doubao.com/chat/). 
+- 🚀 [Feb 2025] As the tech lead of RL and main contributor, our speech to speech LLM has been released on [Doubao](https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8Bai%E5%8A%A9%E6%89%8B/id6459478672) [豆包](https://www.doubao.com/chat/). 
 - 🎉 Papers accepted by ICLR-2025, AAAI-2025, KDD-2025.
 - 🔥 Our paper was nominated as the best paper in SIGIR-2024.
 - 🏆 Received outstanding employee award from Shanda gruop (rate=4/360).
