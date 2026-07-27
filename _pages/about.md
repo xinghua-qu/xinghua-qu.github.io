@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **Principal Research Scientist** specializing in Multimodal Agentic Interaction Models. Previously, I was a Research Scientist and Tech Lead at **ByteDance Seed**, where I focused on multimodal LLMs and Reinforcement Learning. I received my PhD from Nanyang Technological University (NTU, Singapore) in 2022, where I worked on Deep Reinforcement Learning.
+I am a **Principal Research Scientist** specializing in Multimodal Interaction Models. Previously, I was a Research Scientist and Tech Lead at **ByteDance Seed**, where I focused on multimodal LLMs and Reinforcement Learning. I received my PhD from Nanyang Technological University (NTU, Singapore) in 2022, where I worked on Deep Reinforcement Learning.
 
 > "Your time is limited, so don't waste it living someone else's life."  — Steve Jobs
 
@@ -37,7 +37,7 @@ I am a **Principal Research Scientist** specializing in Multimodal Agentic Inter
 </div>
 
 **Experience**
-- 💼 [Feb 2026] I left Bytedance Seed to pursue agentic interaction models. Many thanks my wonderful teammates for the models we trained together.
+- 💼 [Feb 2026] I left Bytedance Seed to pursue multimodal interaction models. Many thanks my wonderful teammates for the models we delivered together.
 - 💼 [Jun 2024] I returned to Bytedance Seed as a research scientist and tech lead to build up the reinforcement learning pipeline for speech to speech LLMs.
 - 💼 [Aug 2023] I joined Shanda Group as an AI scientist inspired by [Mr Chen Tianqiao](https://en.wikipedia.org/wiki/Chen_Tianqiao)'s ambition on AI, working on internal start-up and venture capital investment consultation on AI.
 - 🎓 [Jan 2022]I finished my oral defense and received my PhD degree. Many thanks to my supervisor [Prof Yew-Soon Ong](https://personal.ntu.edu.sg/asysong/home.html) and many other collaborators.
