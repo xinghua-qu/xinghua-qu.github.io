@@ -1,0 +1,7 @@
+{% assign entry = include.entry %}
+{% assign heading_level = include.heading_level | default: 3 %}
+<article class="blog-entry">
+  <time class="blog-date" datetime="{{ entry.date | date: '%Y-%m-%d' }}">{{ entry.date | date: '%B %-d, %Y' }}</time>
+  <h{{ heading_level }} class="blog-entry__title"><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h{{ heading_level }}>
+  <p class="blog-entry__summary">{{ entry.excerpt | strip_html | escape }}</p>
+</article>

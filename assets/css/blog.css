@@ -1,0 +1,78 @@
+/* Shared, restrained writing styles. No external assets or scripts required. */
+.blog-site {
+  margin: 0;
+  color: #30383d;
+  background: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.blog-site *, .blog-feature * { box-sizing: border-box; }
+.blog-site a, .blog-feature a { color: #287e91; text-underline-offset: 0.2em; }
+.blog-site a:hover, .blog-feature a:hover { color: #145362; }
+.blog-site a:focus-visible, .blog-feature a:focus-visible { outline: 2px solid #287e91; outline-offset: 5px; }
+.blog-skip-link { position: absolute; left: 1rem; top: -5rem; padding: 0.75rem; background: #fff; z-index: 10; }
+.blog-skip-link:focus { top: 1rem; }
+.blog-masthead {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 28px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e7ebec;
+  font-size: 15px;
+}
+.blog-masthead a { text-decoration: none; color: #536067; }
+.blog-masthead nav a { font-weight: 600; }
+.blog-home span { margin-right: 7px; }
+.blog-main { width: calc(100% - 48px); max-width: 730px; margin: 72px auto 0; min-height: 52vh; }
+.blog-eyebrow { margin: 0 0 20px; color: #69777e; font-size: 12px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; }
+.blog-index h1, .essay h1 { margin: 0; font-family: Georgia, "Songti SC", "Noto Serif CJK SC", serif; font-weight: 400; color: #253238; }
+.blog-index h1 { font-size: 54px; line-height: 1.1; }
+.blog-index__intro { margin: 18px 0 0; font-size: 18px; line-height: 1.6; color: #657279; }
+.blog-list { margin-top: 54px; border-top: 1px solid #dce3e6; }
+.blog-list .blog-entry { padding: 28px 0 32px; border-bottom: 1px solid #e7ebec; }
+.blog-date { color: #68767d; font-size: 13px; line-height: 1.5; }
+.blog-entry__title { margin: 10px 0 12px; font-size: 25px; line-height: 1.35; font-weight: 500; }
+.blog-entry__title a { text-decoration: none; color: #26373e; }
+.blog-entry__title, .essay h1 { text-wrap: balance; }
+.blog-entry__title a:hover { color: #287e91; text-decoration: underline; }
+.blog-entry__summary { max-width: 660px; margin: 0 0 18px; font-size: 16px; line-height: 1.7; color: #657279; }
+.essay h1 { max-width: 700px; font-size: 46px; line-height: 1.15; letter-spacing: -0.025em; overflow-wrap: break-word; }
+.essay__meta { display: flex; flex-wrap: wrap; gap: 16px 28px; align-items: baseline; margin-top: 24px; }
+.essay__header { padding-bottom: 32px; border-bottom: 1px solid #e7ebec; margin-bottom: 36px; }
+.essay__body { font-family: Georgia, "Songti SC", "Noto Serif CJK SC", serif; font-size: 19px; line-height: 1.85; overflow-wrap: break-word; }
+.essay__body p { margin: 0 0 1.4em; }
+.essay__body a { text-decoration-thickness: 1px; }
+.essay__body code { font-family: "SFMono-Regular", Consolas, monospace; font-size: 0.8em; padding: 0.12em 0.28em; border-radius: 3px; background: #f0f4f5; }
+.blog-footer { max-width: 730px; width: calc(100% - 48px); margin: 64px auto 0; padding: 24px 0 40px; border-top: 1px solid #e7ebec; display: flex; justify-content: space-between; gap: 24px; font-size: 14px; }
+.blog-footer a { text-decoration: none; color: #68767d; }
+
+/* Homepage entry stays within the existing AcademicPages content column. */
+.blog-feature { margin: 2em 0; padding: 22px 0; border-top: 1px solid #dce3e6; border-bottom: 1px solid #dce3e6; }
+.blog-feature__heading { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; margin-bottom: 20px; }
+.page__content .blog-feature__heading h2 { margin: 0; padding: 0; border: 0; font-size: 1em; }
+.blog-feature__heading > a { font-size: 0.75em; white-space: nowrap; }
+.page__content .blog-feature .blog-entry__title { margin: 8px 0 10px; font-size: 1.2em; line-height: 1.4; }
+.page__content .blog-feature .blog-entry__title a { text-decoration: none; }
+.page__content .blog-feature .blog-entry__summary { margin-bottom: 14px; font-size: 0.85em; }
+.blog-feature .blog-date { font-size: 0.7em; }
+
+@media (max-width: 600px) {
+  .blog-masthead { padding: 22px 24px; }
+  .blog-main { margin-top: 44px; }
+  .blog-index h1 { font-size: 44px; }
+  .blog-list { margin-top: 36px; }
+  .blog-entry__title { font-size: 22px; }
+  .essay h1 { font-size: 35px; }
+  .essay__body { font-size: 18px; line-height: 1.8; }
+  .essay__header { margin-bottom: 28px; }
+  .blog-footer { margin-top: 44px; }
+}
+@media print {
+  .blog-masthead, .blog-footer, .blog-skip-link { display: none; }
+  .blog-main { width: 100%; max-width: none; margin: 0; }
+  .essay__body { font-size: 11pt; line-height: 1.6; }
+  .essay h1 { font-size: 24pt; }
+  .blog-site a { color: inherit; }
+}

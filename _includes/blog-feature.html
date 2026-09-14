@@ -1,0 +1,10 @@
+{% assign latest_essay = site.essays | where: 'primary', true | sort: 'date' | reverse | first %}
+{% if latest_essay %}
+<section class="blog-feature" aria-labelledby="latest-writing">
+  <div class="blog-feature__heading">
+    <h2 id="latest-writing">Blog</h2>
+    <a href="{{ '/blog/' | relative_url }}">All posts <span aria-hidden="true">↗</span></a>
+  </div>
+  {% include blog-entry.html entry=latest_essay %}
+</section>
+{% endif %}
