@@ -14,7 +14,6 @@ I am a **Principal Research Scientist** specializing in Multimodal Agentic Inter
 
 > "The best way to predict the future is to invent it" — Alan Kay
 
-{% include blog-feature.html %}
 
 **Recent news**
 <div markdown="1" style="max-height: 40vh; min-height: 120px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px 16px; margin-bottom: 1em; background: #fafbfc; -webkit-overflow-scrolling: touch;">
